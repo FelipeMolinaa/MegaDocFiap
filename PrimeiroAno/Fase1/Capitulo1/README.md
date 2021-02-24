@@ -133,7 +133,7 @@ Capitulo 1
 
         - #### Brinquedotecas
 
-        - <img src="C:\Users\sffmo\Desktop\FIAP\PrimeiroAno\Fase1\gitImages\brinquedoteca.jpg" alt="brinquedoteca" style="zoom:45%;" />
+        - <img src="..\gitImages\brinquedoteca.jpg" alt="brinquedoteca" style="zoom:45%;" />
 
           - É obrigatório a instalação de brinquedotecas em unidades de saúde de atendimento pediátrico.
           - Na lei Federal número 11.104 é reconhecida a importância do ato de brincar em hospitais pediátricos.
@@ -191,6 +191,6 @@ Capitulo 1
 
     - No total sua apresentação apresentará seis exemplos envolvendo saúde, tecnologia e o universo infantil
 
-      <img src="C:\Users\sffmo\Desktop\FIAP\PrimeiroAno\Fase1\gitImages\estruturaAtividade.png" alt="estruturaAtividade" style="zoom: 80%;" />
+      <img src="..\gitImages\estruturaAtividade.png" alt="estruturaAtividade" style="zoom: 80%;" />
 
     - Ao montar sua apresentação lembre se de mencionar as informações relevantes sobre cada exemplo escolhido por você, bem como mencione o país de origem, instituição promotora, se houver e ano, se houver
