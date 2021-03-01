@@ -20,7 +20,7 @@
 
   - #### **Para finalizar**
 
-    - Quando concluir a apresentação, responda, em um texto unico de um ou dois parágrafos as perguntas a seguir
+    - Quando concluir a apresentação, responda, em um texto único de um ou dois parágrafos as perguntas a seguir
     - O que merece ser destacado do que foi pesquisado?
     - Que aprendizado pode ser tirado desta pesquisa para o projeto FriendBot?
 
