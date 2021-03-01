@@ -46,23 +46,23 @@
     - A e B são entradas de energia que sairão no C
     - Onde a chave encosta é onde será enviada a energia
     - Para trocar a chave basta colocar voltagem no S
-    - ![relês aplicados](../../../gitImages\relesComplexo.png)
+    - ![relês aplicados](../../../gitImages/relesComplexo.png)
       - Neste exemplo vemos 4 reles, cada par conectado entre si
       - Veja a tabela Verdade, com todas as saídas de acordo com as entradas
-      - ![Saidas do esquema acima](../../../gitImages\saidasDoEsquema.png)
+      - ![Saidas do esquema acima](../../../gitImages/saidasDoEsquema.png)
 
   - #### Computador de Konrand Zuse
 
     - Foi desenvolvido em 1938 na Alemanha um pouco antes da segunda guerra mundial, conhecida como Z1
     - O programa era lido em uma fita perfurada e os dados eram introduzidos por um teclado numérico
     - Em 1941 o Z3, possuía uma memória que utilizava cerca de 1400 relês e mais 1200 eram utilizados nas unidades de controle e aritmética
-    - ![Konrand Zune e seu computador](../../../gitImages\ComputadorDeKonrand.png)
+    - ![Konrand Zune e seu computador](../../../gitImages/ComputadorDeKonrand.png)
 
   - #### Maquina de Turing
 
     - Em 1936, o matemático inglês Alan Turing, desenvolveu a teoria conhecida como máquina universal, que pode modelar qualquer computador digital
     - Essa teoria foi feita graças a maquina criada por ele, responsável por quebrar a criptografia da alemã, Enigma
-    - ![Maquina criptografa Enigma](../../../gitImages\enigma.png)
+    - ![Maquina criptografa Enigma](../../../gitImages/enigma.png)
     - Turing também participou do projeto Colossus, que foi o primeiro computador 100% eletrônico
 
 - ### Primeira Geração - Válvulas
@@ -73,7 +73,7 @@
 
   - Marcando a segunda geração de computadores, os transistores substituíram as válvulas
   - Além de menor e utilizando menos energia, os transistores eram mais fáceis de utilizar pois possuía apenas 3 pinos
-  - ![Sistema de um transistor](../../../gitImages\sistemaDeUmTransistor.png)
+  - ![Sistema de um transistor](../../../gitImages/sistemaDeUmTransistor.png)
 
 - ### Terceira Geração - Microchip 🟨
 
@@ -198,7 +198,7 @@
   
 - ### Hardware
 
-  - ![](../../../gitImages\esquemaDeHardware.png)
+  - ![](../../../gitImages/esquemaDeHardware.png)
 
     - #### Processadores
 
