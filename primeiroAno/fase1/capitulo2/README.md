@@ -1,5 +1,3 @@
-
-
 # Capitulo 2
 
 ### *Humanidade e Sustentabilidade em Foco*

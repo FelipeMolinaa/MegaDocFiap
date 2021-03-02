@@ -1,6 +1,6 @@
-Capitulo 3
+# Capitulo 3
 
-### Sistemas de informação: what the hell?
+### Significado de Sistemas de Informação
 
 - ### O que é Informação
 
